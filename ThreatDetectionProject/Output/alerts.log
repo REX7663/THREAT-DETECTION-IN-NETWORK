@@ -1,0 +1,5 @@
+19:08:34 | dst=10.0.0.121 port=62673 score=-0.2424 | High ephemeral port with unusual traffic pattern
+19:08:35 | dst=10.0.0.121 port=51308 score=-0.1418 | High ephemeral port with unusual traffic pattern
+19:08:35 | dst=102.132.101.60 port=443 score=-0.1322 | Large packet burst detected
+19:08:35 | dst=239.255.255.250 port=1900 score=-0.1247 | SSDP multicast traffic anomaly
+19:08:35 | dst=172.178.240.162 port=443 score=-0.0069 | Statistical anomaly detected by Isolation Forest
